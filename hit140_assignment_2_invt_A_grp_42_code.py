@@ -3,7 +3,7 @@ HIT140 Assessment 2 — Investigation A: Do bats perceive rats as predators or j
 -----------------------------------------------------------------------------------
 This script reads two datasets (dataset1 and dataset2), cleans them,
 and performs analyses to produce:
-    1) A histogram comparing time-to-food by risk behaviour (risk=0 vs risk
+    1) A histogram comparing time-to-food by risk behaviour (avoid=0 vs risk
         =1) with a Mann–Whitney U test.
     2) Bar charts showing success rates (reward=1 proportions) by risk behaviour,
         with Fisher's exact test.
